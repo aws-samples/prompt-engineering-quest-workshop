@@ -1,4 +1,7 @@
-# Prompt Engineering Workshop
+# Prompt Engineering Quest to 300 Workshop
+Welcome to the Prompt Engineering Quest to 300 Workshop. This workshop is designed as 'Quest to 300' where you will be learning prompt best practices by solving quest questions.
+The workshop starts by introducing various prompting concepts which should be used later to solve the quest questions.
+
 This prompt engineering workshop provides a comprehensive technical guide to crafting effective prompts for large language models like [Anthropic's Claude](https://aws.amazon.com/bedrock/claude/) and [Mistral AI](https://aws.amazon.com/bedrock/mistral/) available on Amazon Bedrock. The workshop covers the fundamentals of prompt structures, including the COSTAR framework, XML tag usage in Claude prompts, the Messages API for conversational interactions, and multimodal prompting with images. It explains key inference parameters like max_tokens, temperature, top-k/top-p sampling that influence the model outputs. The content delves into fundamental prompting concepts such as zero-shot, few-shot, chain of thought prompting, and prompt chaining/decomposition techniques. Additionally, it introduces various reusable prompt patterns like persona, flipped interaction, reflection, and others to streamline the prompt engineering workflow. The workshop also includes a set of 9 hands-on challenges to practice applying the concepts learned, covering tasks such as modifying prompts, solving puzzles, assessing prompt validity, and generating targeted outputs. Overall, this technical resource aims to equip developers, researchers, and AI practitioners with the skills to effectively prompt and control large language models.
 
 The main sections covered in this prompt engineering workshop are:
