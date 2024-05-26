@@ -1,7 +1,7 @@
 import boto3
 import json
 
-AWS_REGION = 'us-east-1'
+AWS_REGION = 'us-west-2'
 
 # Amazon Bedrock Runtime is the API entry endepoint for invoking foundational models
 bedrock = boto3.client('bedrock-runtime',region_name=AWS_REGION)
