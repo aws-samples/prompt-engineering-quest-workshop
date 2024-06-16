@@ -71,4 +71,4 @@ system = """"
 """
 
 # Set this stop_sequence to have Claude stop generating once it calls a function 
-stop_sequence = ['</function_calls>']
+stop_sequences = ['</function_calls>']
